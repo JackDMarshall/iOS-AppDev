@@ -30,14 +30,6 @@
 }
 
 - (IBAction)btnClickMeClicked:(id)sender {
-    if (lblHelloWorld.text = @"Hello World")
-    {
  [lblHelloWorld setText:@"ViewDidLoad sent me" ];
-    }
-    if (lblHelloWorld.text = @"ViewDidLoad sent me")
-    {
-      [lblHelloWorld setText:@"Hello World" ];
-        
-    }
 }
 @end
